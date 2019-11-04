@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhotoVideoWeb</title>
+    <link>http://www.photovideoweb.fr/</link>
+    <description>Recent content on PhotoVideoWeb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
+    
+        <atom:link href="http://www.photovideoweb.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>à ce propos</title>
+      <link>http://www.photovideoweb.fr/a-propos/</link>
+      <pubDate>Mon, 19 Aug 2019 10:35:35 -0500</pubDate>
+      
+      <guid>http://www.photovideoweb.fr/a-propos/</guid>
+      <description>PhotoVideoWeb est géré par la bienveillance de la couveuse d&#39;entreprise Altitude :
+Siège social : ALTITUDE 3 chemin du Pigeonnier de la Cépière Bât C - 31100TOULOUSEFRANCE, SIREN : 424845949, NAF : 9499Z, N° Organisme de formation : 73 31 03619 31, TVA Intracom : FR54424845949 ALTITUDE 31 COMMINGES 2 rue des Marguerites - 31800 SAINT GAUDENS FRANCE</description>
+    </item>
+  </channel>
+</rss>

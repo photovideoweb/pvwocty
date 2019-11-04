@@ -1,0 +1,13 @@
+baseurl = "http://www.photovideoweb.fr"
+title = "PhotoVideoWeb"
+author = "PhotoVideoWeb"
+languageCode = "fr-fr"
+canonifyurls = true
+paginate = 1
+theme = "aether"
+
+[params]
+brand = "PhotoVideoWeb"
+description = "Les services de l'image et du numérique"
+homeimg = "img/logoaile.png"
+bgimg = "img/fond-site-web.png"
